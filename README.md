@@ -1,4 +1,4 @@
 Participantes:
 
-Sebastian Bucheli Miranda
+Sebastian Bucheli Miranda          
 David Alexander Carvajal Molina
